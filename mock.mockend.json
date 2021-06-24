@@ -1,0 +1,74 @@
+{
+  "Task": [
+    {
+      "id": 1,
+      "title": "2nd floor interior Design",
+      "Assignee": "tulmi",
+      "assigned": "Jhon den",
+      "occupation": "Manager",
+      "Start_Date": "26 APril 2022",
+      "END_Date": "26 APril 2024",
+      "Task_Status": "Running"
+    },
+    {
+      "id": 2,
+      "title": "Third floor Water Piping",
+      "Assignee": "Juli",
+      "assigned": "Amit gaur",
+      "occupation": "Plumber",
+      "Start_Date": "03 jan 2021",
+      "END_Date": "26 April 2021",
+      "Task_Status": "Delayed"
+    },
+    {
+      "id": 3,
+      "title": "3rd Floor Wiring",
+      "Assignee": "Jasmeet",
+      "assigned": "Kumar Dev",
+      "occupation": "Electrician",
+      "Start_Date": "03 jan 2021",
+      "END_Date": "26 Jul 2021",
+      "Task_Status": "Pending"
+    },
+    {
+      "id": 4,
+      "title": "2nd floor interior Design",
+      "Assignee": "tulmi",
+      "assigned": "Jhon den",
+      "occupation": "Manager",
+      "Start_Date": "26 APril 2022",
+      "END_Date": "26 APril 2024",
+      "Task_Status": "Running"
+    },
+    {
+      "id": 5,
+      "title": "Third floor Water Piping",
+      "Assignee": "Juli",
+      "assigned": "Amit gaur",
+      "occupation": "Plumber",
+      "Start_Date": "03 jan 2021",
+      "END_Date": "26 April 2021",
+      "Task_Status": "Delayed"
+    },
+    {
+      "id": 6,
+      "title": "3rd Floor Wiring",
+      "Assignee": "Jasmeet",
+      "assigned": "Kumar Dev",
+      "occupation": "Electrician",
+      "Start_Date": "03 jan 2021",
+      "END_Date": "26 Jul 2021",
+      "Task_Status": "Pending"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
